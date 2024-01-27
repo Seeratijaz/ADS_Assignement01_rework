@@ -173,13 +173,13 @@ def get_refine_data(dataframe):
 
     Parameters
     ----------
-    dataframe : TYPE
-        DESCRIPTION.
+    dataframe : Pandas DataFrame
+        Input Pandas Data Frame to Filter out some Data.
 
     Returns
     -------
-    total_cancer_death_by_type : TYPE
-        DESCRIPTION.
+    total_cancer_death_by_type : Pandas Data Frame
+        Output Pandas DataFrame to Filter so of our Data.
 
     """
 
